@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Node.js](https://github.com/nodejs/node)
 
-- 📝 I regularly write articles on [javascript](javascript)
+- 📝 I regularly write articles on JavaScript
 
 - 💬 Ask me about **node.js**
 
