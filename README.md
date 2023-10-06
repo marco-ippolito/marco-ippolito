@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
 <h3 align="center">I'm a Senior Developer Experience Engineer at NearForm. Passionate about the open source world, especially the Node.js ecosystem, I actively contribute to projects like Node.js, Fastify, Mercurius, and more.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marco-ippolito&label=Profile%20views&color=0e75b6&style=flat" alt="marco-ippolito" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marco-ippolito" alt="marco-ippolito" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/satanacchio" target="blank"><img src="https://img.shields.io/twitter/follow/satanacchio?logo=twitter&style=for-the-badge" alt="satanacchio" /></a> </p>
 
 - 🔭 I’m currently working on [Node.js](https://github.com/nodejs/node)
