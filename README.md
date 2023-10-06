@@ -17,6 +17,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Codeception: A Journey into Meta Programming](https://medium.com/@marcoippolito54/javascript-codeception-a-journey-into-meta-programming-5b1cf9005994?source=rss-fabadffbc3aa------2)
+- [Advanced JavaScript code search with Orama](https://medium.com/@marcoippolito54/advanced-javascript-code-search-with-orama-4e9ed094b4e2?source=rss-fabadffbc3aa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
