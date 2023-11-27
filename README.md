@@ -3,11 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/satanacchio" target="blank"><img src="https://img.shields.io/twitter/follow/satanacchio?logo=twitter&style=for-the-badge" alt="satanacchio" /></a> </p>
 
-- 🔭 I’m currently working on [Node.js](https://github.com/nodejs/node)
-
-- 📝 I regularly write articles on JavaScript
-
-- 💬 Ask me about **node.js**
+- 🔭 I’m currently working on [Node.js](https://github.com/nodejs/node) and [Fiume](https://github.com/marco-ippolito/fiume)
 
 - 📫 How to reach me **marcoippolito54@gmail.com**
 
