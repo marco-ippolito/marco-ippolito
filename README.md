@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
 <h3 align="center">I'm a Senior Developer Experience Engineer at NearForm. Passionate about the open source world, especially the Node.js ecosystem, I actively contribute to projects like Node.js, Fastify, Mercurius, and more.</h3>
 
-<p align="left"> <a href="https://twitter.com/satanacchio" target="blank"><img src="https://img.shields.io/twitter/follow/satanacchio?logo=twitter&style=for-the-badge" alt="satanacchio" /></a> </p>
-
 - 🔭 I’m currently working on [Node.js](https://github.com/nodejs/node) and [Fiume](https://github.com/marco-ippolito/fiume)
 
 - 📫 How to reach me **marcoippolito54@gmail.com**
