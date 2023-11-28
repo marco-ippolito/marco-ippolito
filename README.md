@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Marco</h1>
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [JavaScript Codeception: A Journey into Meta Programming](https://medium.com/@marcoippolito54/javascript-codeception-a-journey-into-meta-programming-5b1cf9005994?source=rss-fabadffbc3aa------2)
