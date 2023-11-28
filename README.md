@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
 <h3 align="center">I'm a Senior Developer Experience Engineer at NearForm. Passionate about the open source world, especially the Node.js ecosystem, I actively contribute to projects like Node.js, Fastify, Mercurius, and more.</h3>
 
-- 🔭 I’m currently working on [Node.js](https://github.com/nodejs/node) and [Fiume](https://github.com/marco-ippolito/fiume)
-
-- 📫 How to reach me **marcoippolito54@gmail.com**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [JavaScript Codeception: A Journey into Meta Programming](https://medium.com/@marcoippolito54/javascript-codeception-a-journey-into-meta-programming-5b1cf9005994?source=rss-fabadffbc3aa------2)
