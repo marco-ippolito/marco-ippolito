@@ -1,9 +1,3 @@
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [JavaScript Codeception: A Journey into Meta Programming](https://medium.com/@marcoippolito54/javascript-codeception-a-journey-into-meta-programming-5b1cf9005994?source=rss-fabadffbc3aa------2)
-- [Advanced JavaScript code search with Orama](https://medium.com/@marcoippolito54/advanced-javascript-code-search-with-orama-4e9ed094b4e2?source=rss-fabadffbc3aa------2)
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/satanacchio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satanacchio" height="30" width="40" /></a>
